@@ -1,4 +1,10 @@
-# LeetCode
+# LeetCode(Modified)
+
+### ❗️Attention❗️- This is a modified version that has merged some PR
+- Change the configuration scope to window [#698](https://github.com/LeetCode-OpenSource/vscode-leetcode/pull/697)
+
+[Modified Repository](https://github.com/adaex/vscode-leetcode)
+
 
 > Solve LeetCode problems in VS Code
 
